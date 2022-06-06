@@ -1,5 +1,6 @@
 # 229project
 Improved Similarity Search for Finding Rare Events in Videos <br />
+Dataset is downloaded and decomposed using https://github.com/mehdi-shiba/youtube-bb-utility <br/>
 init_db.py: Initialize database <br />
 parse_data.ipynb: Parse data from csv dataset <br />
 db_setup.ipynb: Add parsed data to database  <br />
